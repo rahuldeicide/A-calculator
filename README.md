@@ -3,4 +3,4 @@ My first GitHub repository
 <br>
 Author- Rahul Gupta
 <br>
-Simple calculator build 
+Simple calculator build for easy calculations
